@@ -1,0 +1,6 @@
+{
+  "name": "tirOtir Python",
+  "description": "Interactive Python learning platform and IDE based on tirOtir AI Academy curriculum with live interpreter, code visualizer, turtle graphics, quizzes, and project suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
